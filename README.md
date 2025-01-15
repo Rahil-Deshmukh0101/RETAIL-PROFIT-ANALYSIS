@@ -1,4 +1,4 @@
-# Retail Profit Analysis
+# RETAIL PROFIT ANALYSIS
 
 ## Project Overview
 Retail businesses face numerous challenges in identifying key factors that drive profitability. This project, **Retail Profit Analysis**, explores how factors like shipping modes, product categories, discounts, and regional performance influence profit margins. The analysis aims to provide actionable insights that can help optimize business strategies and maximize profitability.
